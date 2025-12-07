@@ -1,0 +1,2 @@
+-- name: Component Template
+-- description: A template to create a component mod.
